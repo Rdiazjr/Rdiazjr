@@ -14,6 +14,3 @@ Hello! My name is **Rogelio Diaz Jr**., I am a fourth year college student of Co
 - Laravel
 - Bootstrap
 
-**Certificates:**
-- <a href="https://www.testdome.com/certificates/2b17ccf0d83744a798ea3abf21b9546f
-">TestDome HTML/CSS Certificate</a>
