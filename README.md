@@ -1,16 +1,6 @@
 
-Hello! My name is **Rogelio Diaz Jr**., I am a fourth year college student of Computer Science in the University of Makati. I started to be interested in programming when I was in junior high school, I became curious about how the web works so I started to teach myself how to create websites using the tutorials I found in W3schools and tutorials point. I continued to pursue my passion in programming in senior high school and college, wherein I learned how to develop android applications, web applications, and create my own game. Currently, I am interested in software engineering and eager to learn more to develop complex applications.
+Hello! My name is **Rogelio Diaz Jr**., I started programming as a hobby and pursued a Bachelor's degree in Computer Science to learn more about web and software development.
+**Programming Languages:** HTML, CSS, PHP, Java Script, Java, C#, Python
 
-**Programming Languages:**
-- HTML
-- CSS
-- PHP
-- Java Script
-- Java
-- C#
-- Python
-
-**Frameworks used**
-- Laravel
-- Bootstrap
+**Frameworks used** Laravel, Bootstrap
 
