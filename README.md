@@ -7,6 +7,7 @@ Hello! My name is **Rogelio Diaz Jr**., I am a fourth year college student of Co
 - PHP
 - Java Script
 - Java
+- C#
 - Python
 
 **Frameworks used**
