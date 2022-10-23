@@ -15,3 +15,8 @@ My name is **Rogelio Diaz Jr**., I started programming as a hobby and pursued a 
 **Frameworks used:** 
 - Laravel 
 - Bootstrap
+
+**Certificates:**
+- <a href="https://www.testdome.com/certificates/2b17ccf0d83744a798ea3abf21b9546f"> TestDome HTML/CSS Certificate </a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/ZCHZG25PC9QK"> Coursera - HTML, CSS, and Javascript for Web Developers Certificate </a>
+- <a href="https://drive.google.com/file/d/1qETaoC7oAfXOdI-jCxcD8MNWdy9wHXBj/view"> Netacad JavaScript Certificate </a>
